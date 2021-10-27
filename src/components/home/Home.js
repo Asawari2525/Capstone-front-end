@@ -1,5 +1,4 @@
 
-
 import React from 'react';
 import { fade, makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
@@ -242,4 +241,3 @@ export default function PrimarySearchAppBar() {
     </div>
   );
 }
-
